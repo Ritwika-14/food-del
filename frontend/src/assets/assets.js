@@ -88,37 +88,38 @@ export const assets = {
 
 export const menu_list = [
     {
-        menu_name: "Salad",
+        menu_name: "Lipstick",
         menu_image: menu_1
     },
     {
-        menu_name: "Rolls",
+        menu_name: "Foundation",
         menu_image: menu_2
     },
     {
-        menu_name: "Deserts",
+        menu_name: "Concealer",
         menu_image: menu_3
     },
     {
-        menu_name: "Sandwich",
+        menu_name: "Highlighter",
         menu_image: menu_4
     },
     {
-        menu_name: "Cake",
+        menu_name: "Mascara",
         menu_image: menu_5
     },
     {
-        menu_name: "Pure Veg",
+        menu_name: "Blush",
         menu_image: menu_6
     },
     {
-        menu_name: "Pasta",
+        menu_name: "Eyeliner",
         menu_image: menu_7
     },
     {
-        menu_name: "Noodles",
+        menu_name: "Eyeshadow",
         menu_image: menu_8
     }]
+
 
 export const food_list = [
     {
