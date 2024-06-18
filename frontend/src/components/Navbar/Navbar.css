@@ -54,7 +54,7 @@ position: relative;
 }
 
 .navbar-right button:hover {
-    background: #fff4f2;
+    background: #d39ef1;
 }
 
 .navbar-profile{
@@ -83,7 +83,7 @@ position: relative;
     display: flex;
     flex-direction: column;
     gap: 10px;
-    background-color: #fff2ef;
+    background-color: #d39ef1;
     padding: 12px 25px;
     border-radius: 4px;
     border: 1px solid #ae68e0;
